@@ -20,3 +20,4 @@ def get_data_path(subfolder):
 SAMPLE1 = get_data_path("SAMPLE1")
 SAMPLE2 = get_data_path("SAMPLE2")
 SAMPLE3 = get_data_path("SAMPLE3")
+SAMPLE4 = get_data_path("SAMPLE4")

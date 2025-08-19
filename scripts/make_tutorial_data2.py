@@ -1,5 +1,5 @@
 """
-make_tutorial_data1.py
+make_tutorial_data2.py
 """
 import os
 import sys
