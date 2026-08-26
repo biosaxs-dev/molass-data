@@ -12,3 +12,6 @@ dist/
 # Ignore the Sphinx build directory
 docs/_build/
 docs/source/**
+
+# VS Code version (auto-updated by vscode-version-recorder extension)
+.github/vscode-version.txt
