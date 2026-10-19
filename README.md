@@ -12,4 +12,5 @@ from molass_data import SAMPLE2     # contains the folder path
 from molass_data import SAMPLE3     # contains the folder path
 from molass_data import SAMPLE4     # contains the folder path
 from molass_data import SAMPLE5     # contains the folder path
+from molass_data import SAMPLE6     # contains the folder path
 ```

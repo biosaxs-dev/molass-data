@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "molass_data"
-version = "0.4.1"
+version = "0.5.0"
 
 dependencies = [
 ]
@@ -46,6 +46,7 @@ include = [
   "molass_data/SAMPLE3/*",
   "molass_data/SAMPLE4/*",
   "molass_data/SAMPLE5/*",
+  "molass_data/SAMPLE6/*",  
 ]
 exclude = [
 ]
